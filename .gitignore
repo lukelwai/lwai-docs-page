@@ -1,0 +1,9 @@
+.temp
+.cache
+.idea
+.vscode
+# 依赖文件
+node_modules/
+package-lock.json
+# 打包的文件
+#docs/.vuepress/dist
